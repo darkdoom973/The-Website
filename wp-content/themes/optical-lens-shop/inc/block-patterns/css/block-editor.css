@@ -1,0 +1,124 @@
+.optical-lens-shop-banner-section h1,
+.optical-lens-shop-banner-section .wp-block-button__link,
+.optical-lens-shop-new-product-section h2,
+.optical-lens-shop-new-product-section p,
+.optical-lens-shop-new-product-section .wp-block-button__link,
+.optical-lens-shop-new-product-section .product-section h3,
+.optical-lens-shop-new-product-section .product-section ul li .wc-block-grid__product-title,
+.optical-lens-shop-new-product-section .product-section ul li .wc-block-grid__product-price.price{
+    font-family: 'Open Sans', sans-serif;
+}
+/*banner-section*/
+.optical-lens-shop-banner-section .wp-block-cover__inner-container .wp-block-column{
+    padding: 0 !important;
+}
+.optical-lens-shop-banner-section{
+    width: auto;
+    height: auto;
+}
+.optical-lens-shop-banner-section h1{
+    font-weight: 700;
+}
+.optical-lens-shop-banner-section .wp-block-button__link{
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.optical-lens-shop-banner-section .wp-block-button__link:hover{
+    background: #00A3FC !important;
+}
+/*product section*/
+.optical-lens-shop-shopping-section{
+    position: relative;
+}
+.optical-lens-shop-shopping-section .wp-block-cover__inner-container{
+    position: absolute;
+    top: 5%;
+}
+.optical-lens-shop-new-product-section h2{
+    line-height: 38px;
+    font-weight: 600;
+    text-align: center;
+    margin: 0 0 5px;
+}
+.optical-lens-shop-new-product-section p{
+    text-transform: uppercase;
+    margin: 0 0 -15px;
+}
+.optical-lens-shop-new-product-section .wc-block-grid__product-link{
+    text-decoration: none !important;
+}
+.optical-lens-shop-new-product-section .wp-block-button__link:hover {
+    background: #00A3FC !important;
+}
+.optical-lens-shop-new-product-section .wp-block-button__link {
+    margin-top: 20px;
+    font-weight: 500;
+}
+.optical-lens-shop-new-product-section .product-section li.wc-block-grid__product {
+    max-width: 31%;
+}
+.optical-lens-shop-new-product-section .product-section h3{
+    margin: 15px 0 0px;
+}
+.optical-lens-shop-new-product-section .product-section .wp-block-woocommerce-product-category{
+    margin: 0;
+}
+.optical-lens-shop-new-product-section .product-section .wc-block-grid__product-title {
+    color: #000;
+    font-size: 18px;
+    font-weight: 500;
+}
+.optical-lens-shop-new-product-section .product-section{
+    position: relative;
+}
+.optical-lens-shop-new-product-section .product-section .wc-block-grid__product-onsale {
+    display: none;
+}
+.optical-lens-shop-new-product-section .product-section del {
+    color: #000;
+    font-weight: 500;
+    font-size: 18px;
+}
+.optical-lens-shop-new-product-section .product-section ins {
+    font-size: 15px;
+}
+.optical-lens-shop-new-product-section .product-section .wc-block-grid__product-rating {
+    position: absolute;
+    color: #fdce38;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: 38px;
+}
+.optical-lens-shop-new-product-section .product-section a.added_to_cart {
+    padding: 6px;
+    margin-left: 10px;
+    background: #00a3fc;
+    color: #fff;
+    text-decoration: none !important;
+    font-weight: 700;
+}
+.optical-lens-shop-new-product-section .product-section a.add_to_cart_button {
+    background: url(../images/product-cart.png) no-repeat scroll 14px #00A3FC !important;
+    text-indent: -9999px;
+    padding: 5px 22px;
+    order: 1;
+    border-radius: 0px;
+}
+.optical-lens-shop-new-product-section .product-section .wc-block-grid__product {
+    padding: 30px 20px 30px 20px;
+    border: 1px solid #D8D8D8;
+    margin: 9px 7px !important;
+}
+.optical-lens-shop-new-product-section .product-section li.wc-block-grid__product:hover{
+    box-shadow: 0px 3px 6px #00000029;
+    border: none;
+}
+.optical-lens-shop-new-product-section .product-section .wp-block-button .wc-block-grid__product-add-to-cart a.wp-block-button__link:before{
+    background: #00A3FC;
+    padding: 10px;
+    color: #fff;
+    order: 3;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400;
+    content: "\f004";
+}

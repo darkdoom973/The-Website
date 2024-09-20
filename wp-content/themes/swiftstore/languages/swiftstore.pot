@@ -1,0 +1,745 @@
+# Copyright (C) {2023} Firefly Themes
+msgid ""
+msgstr ""
+"Project-Id-Version: SwiftStore 1.0.1\n"
+"Report-Msgid-Bugs-To: https://fireflythemes.com/support/\n"
+"POT-Creation-Date: 2023-05-27 03:48:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Firefly Themes <info@fireflythemes.com>\n"
+"Language-Team: Firefly Themes <info@fireflythemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: patterns/error-404.php:13
+msgid "0"
+msgstr ""
+
+#: patterns/error-404.php:13
+msgid "4"
+msgstr ""
+
+#: inc/about-admin/templates/admin-plugin-notice.php:10
+msgid "Howdy, Welcome to"
+msgstr ""
+
+#: inc/about-admin/templates/admin-plugin-notice.php:10
+msgid "SwiftStore!"
+msgstr ""
+
+#: inc/about-admin/templates/admin-plugin-notice.php:11
+msgid ""
+"Do you know you can get more features in SwiftStore? Upgrade to Jetblack "
+"FSE Pro!!!"
+msgstr ""
+
+#: inc/about-admin/templates/admin-plugin-notice.php:12
+msgid "SwiftStore Pro Details"
+msgstr ""
+
+#: inc/about-admin/templates/admin-plugin-notice.php:13
+msgid "Learn more about SwiftStore Pro Theme"
+msgstr ""
+
+#: inc/about-admin/templates/theme-info.php:18
+msgid "Multipurpose WordPress Full Site Editing Theme"
+msgstr ""
+
+#: inc/about-admin/templates/theme-info.php:31
+#: inc/about-admin/templates/theme-info.php:239
+msgid "Documentation"
+msgstr ""
+
+#: inc/about-admin/templates/theme-info.php:35
+#: inc/about-admin/templates/theme-info.php:243
+msgid "Get Support"
+msgstr ""
+
+#: inc/about-admin/templates/theme-info.php:47
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/about-admin/theme-info.php:6
+msgid "SwiftStore Theme"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "SwiftStore"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: patterns/error-404.php:20
+msgid "This page could not be found. Maybe try a search? "
+msgstr ""
+
+#: patterns/feature-banner-one.php:16
+msgid "Trending Now"
+msgstr ""
+
+#: patterns/feature-banner-one.php:20
+msgid "Trendy Fashion"
+msgstr ""
+
+#: patterns/feature-banner-one.php:24
+msgid "Fashion Loungewear Staples Ready For Anything"
+msgstr ""
+
+#: patterns/feature-banner-one.php:29 patterns/feature-banner-one.php:58
+#: patterns/feature-banner-one.php:82 patterns/feature-banner-three.php:28
+#: patterns/feature-banner-three.php:54 patterns/header.php:16
+#: patterns/product-sidebar.php:75
+msgid "Shop Now"
+msgstr ""
+
+#: patterns/feature-banner-one.php:49
+msgid "Dress For Spring"
+msgstr ""
+
+#: patterns/feature-banner-one.php:53
+msgid "Mens Wardrobe"
+msgstr ""
+
+#: patterns/feature-banner-one.php:73 patterns/feature-banner-three.php:41
+msgid "Hot Products"
+msgstr ""
+
+#: patterns/feature-banner-one.php:77
+msgid "Womens Wardrobe"
+msgstr ""
+
+#: patterns/feature-banner-three.php:15
+msgid "BEST DEALS"
+msgstr ""
+
+#: patterns/feature-banner-three.php:19
+msgid "Get 30% Off"
+msgstr ""
+
+#: patterns/feature-banner-three.php:23
+msgid "On Sandal"
+msgstr ""
+
+#: patterns/feature-banner-three.php:45
+msgid "Office Bag "
+msgstr ""
+
+#: patterns/feature-banner-three.php:49
+msgid "Branded"
+msgstr ""
+
+#: patterns/footer.php:18
+msgid ""
+"Lorem ipsum dolor sit amet consecte tur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua tepo the."
+msgstr ""
+
+#: patterns/footer.php:36 patterns/footer.php:70
+msgid "Information"
+msgstr ""
+
+#: patterns/footer.php:42 patterns/footer.php:76
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer.php:46 patterns/footer.php:80 patterns/footer.php:140
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer.php:50 patterns/footer.php:84
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: patterns/footer.php:54 patterns/footer.php:88
+msgid "Returns &amp; Exchanges"
+msgstr ""
+
+#: patterns/footer.php:58 patterns/footer.php:92
+msgid "Shipping &amp; Delivery"
+msgstr ""
+
+#: patterns/footer.php:62 patterns/footer.php:96
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer.php:104
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:111
+msgid "Store Location"
+msgstr ""
+
+#: patterns/footer.php:115
+msgid "My Account"
+msgstr ""
+
+#: patterns/footer.php:119
+msgid "Accessories"
+msgstr ""
+
+#: patterns/footer.php:123
+msgid "Orders Tracking"
+msgstr ""
+
+#: patterns/footer.php:127
+msgid "FAQs"
+msgstr ""
+
+#: patterns/footer.php:131
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer.php:146
+msgid "example@mail.com "
+msgstr ""
+
+#: patterns/footer.php:150
+msgid "+1 234 567 890"
+msgstr ""
+
+#: patterns/footer.php:154
+msgid "457 Morningview Lane, NY"
+msgstr ""
+
+#: patterns/footer.php:168
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:168
+msgid "Firefly Themes"
+msgstr ""
+
+#: patterns/footer.php:168
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:168
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header.php:11
+msgid "Black Friday."
+msgstr ""
+
+#: patterns/header.php:11
+msgid "Save up to 50%"
+msgstr ""
+
+#: patterns/header.php:11
+msgid "Deal Ends: +  4 day."
+msgstr ""
+
+#: patterns/latest-product.php:14
+msgid "New Arrivals"
+msgstr ""
+
+#: patterns/latest-product.php:27 patterns/tending-product.php:27
+msgid "See All"
+msgstr ""
+
+#: patterns/product-sidebar.php:11
+msgid "Filter by price"
+msgstr ""
+
+#: patterns/product-sidebar.php:21 patterns/sidebar.php:31
+msgid "Categories"
+msgstr ""
+
+#: patterns/product-sidebar.php:29
+msgid "Active filters"
+msgstr ""
+
+#: patterns/product-sidebar.php:39
+msgid "Filter by stock status"
+msgstr ""
+
+#: patterns/product-sidebar.php:49
+msgid "Filter by attribute"
+msgstr ""
+
+#: patterns/product-sidebar.php:59
+msgid "Filter by rating"
+msgstr ""
+
+#: patterns/product-sidebar.php:70
+msgid "Mega Sale 2023"
+msgstr ""
+
+#: patterns/service.php:19
+msgid "Free Delivery"
+msgstr ""
+
+#: patterns/service.php:23
+msgid "From $59.89"
+msgstr ""
+
+#: patterns/service.php:37
+msgid "Support 24/7"
+msgstr ""
+
+#: patterns/service.php:41
+msgid "Online 24 Hours"
+msgstr ""
+
+#: patterns/service.php:55
+msgid "Gift Hamper"
+msgstr ""
+
+#: patterns/service.php:59
+msgid "$999 + Shoping"
+msgstr ""
+
+#: patterns/service.php:73
+msgid "Free Return"
+msgstr ""
+
+#: patterns/service.php:77
+msgid "365 A Day"
+msgstr ""
+
+#: patterns/service.php:91
+msgid "Payment"
+msgstr ""
+
+#: patterns/service.php:95
+msgid "Secure Payment"
+msgstr ""
+
+#: patterns/shop-title-cover.php:12
+msgid "Shop"
+msgstr ""
+
+#: patterns/sidebar.php:19
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/sidebar.php:43
+msgid "Archive"
+msgstr ""
+
+#: patterns/sidebar.php:57
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:69
+msgid "Social Links"
+msgstr ""
+
+#: patterns/tending-product.php:14
+msgid "Trending Products"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://fireflythemes.com/themes/swiftstore"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SwiftStore, a dynamic and feature-rich WooCommerce-ready WordPress theme "
+"designed to accelerate your online store's success. With its sleek design "
+"and seamless integration with WooCommerce, SwiftStore provides a robust "
+"foundation for creating a visually stunning and high-performing e-commerce "
+"website. SwiftStore is a WordPress theme that is WooCommerce-ready. From "
+"flexible customization options powered by Full Site Editing to efficient "
+"product management and a user-friendly interface, SwiftStore empowers you "
+"to effortlessly showcase and sell your products while delivering an "
+"exceptional shopping experience to your customers.  With different block "
+"patterns available in SwiftStore, it allows you to personalize your store "
+"to match your brand identity. The theme is responsive that means it looks "
+"flawless across all devices, including desktops, tablets, and mobile "
+"phones. Your customers will enjoy a smooth and intu"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ffthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://fireflythemes.com/"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
